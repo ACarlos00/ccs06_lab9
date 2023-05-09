@@ -22,7 +22,7 @@ try {
 			'name' => 'Silvers',
 			'gender' => 'Male',
 			'birthdate' => 'November 20, 2021',
-			'owner' => 'Jan',
+			'owner' => 'Anilov',
 			'email' => 'carlos.Silvers@gmail.com',
 			'address' => 'Palayan sa Essel',
 			'contact_number' => '09346387430'
